@@ -2,4 +2,7 @@
 # ChatGPT Paper
 
 - Introduction
+
+	
+
 - Theory
